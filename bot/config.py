@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "2118481312:AAH_7XOSn9KDAJVizrGS5AqRAPRdOsh5qgA"
+    APP_ID = "10677585"
+    API_HASH = "38a6a7471b40cb376bd2f835a581188a"
+    DATABASE_URL = "postgres://jpjyfntfyvbepw:8540cdd446faaf644b6ee1746db379ade3334d0943fd5aade486232320c90dc8@ec2-54-147-207-184.compute-1.amazonaws.com:5432/d3d7pdcuggfblk"
+    SUDO_USERS = "991689442" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "202264815644.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
-    SUPPORT_CHAT_LINK = "https://t.me/moedyiu"
+    G_DRIVE_CLIENT_ID = "795468215589-b6el9h6ep7ngfp1jcr9em16b13srcfla.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "https://t.me/RequestMovie84"
  
 
 class BotCommands:
